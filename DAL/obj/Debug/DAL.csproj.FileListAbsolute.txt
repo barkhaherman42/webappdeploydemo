@@ -1,0 +1,22 @@
+c:\Users\Hannan\Documents\Visual Studio 2015\Projects\MVC_DbFirst\DAL\bin\Debug\DAL.dll.config
+c:\Users\Hannan\Documents\Visual Studio 2015\Projects\MVC_DbFirst\DAL\bin\Debug\DAL.dll
+c:\Users\Hannan\Documents\Visual Studio 2015\Projects\MVC_DbFirst\DAL\bin\Debug\DAL.pdb
+c:\Users\Hannan\Documents\Visual Studio 2015\Projects\MVC_DbFirst\DAL\bin\Debug\EntityFramework.dll
+c:\Users\Hannan\Documents\Visual Studio 2015\Projects\MVC_DbFirst\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Hannan\Documents\Visual Studio 2015\Projects\MVC_DbFirst\DAL\bin\Debug\EntityFramework.xml
+c:\Users\Hannan\Documents\Visual Studio 2015\Projects\MVC_DbFirst\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Hannan\Documents\Visual Studio 2015\Projects\MVC_DbFirst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Users\Hannan\Documents\Visual Studio 2015\Projects\MVC_DbFirst\DAL\obj\Debug\DAL.dll
+c:\Users\Hannan\Documents\Visual Studio 2015\Projects\MVC_DbFirst\DAL\obj\Debug\DAL.pdb
+C:\Projects\AzureDemos\Sourcecode\MVC_DbFirst\DAL\bin\Debug\DAL.dll.config
+C:\Projects\AzureDemos\Sourcecode\MVC_DbFirst\DAL\bin\Debug\DAL.pdb
+C:\Projects\AzureDemos\Sourcecode\MVC_DbFirst\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Projects\AzureDemos\Sourcecode\MVC_DbFirst\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Projects\AzureDemos\Sourcecode\MVC_DbFirst\DAL\obj\Debug\DAL.dll
+C:\Projects\AzureDemos\Sourcecode\MVC_DbFirst\DAL\obj\Debug\DAL.pdb
+c:\Projects\AzureDemos\Sourcecode\MVC_DbFirst\webappdeploydemo\DAL\bin\Debug\DAL.dll.config
+c:\Projects\AzureDemos\Sourcecode\MVC_DbFirst\webappdeploydemo\DAL\bin\Debug\DAL.pdb
+c:\Projects\AzureDemos\Sourcecode\MVC_DbFirst\webappdeploydemo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+c:\Projects\AzureDemos\Sourcecode\MVC_DbFirst\webappdeploydemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+c:\Projects\AzureDemos\Sourcecode\MVC_DbFirst\webappdeploydemo\DAL\obj\Debug\DAL.dll
+c:\Projects\AzureDemos\Sourcecode\MVC_DbFirst\webappdeploydemo\DAL\obj\Debug\DAL.pdb

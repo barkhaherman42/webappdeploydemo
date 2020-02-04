@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/bootstrap.js"></script>
+
+<script>
+$(document).ready(function() {
+    $('#example').DataTable();
+});
+</script>
+
+
+<table id="example" class="table table-striped table-bordered" cellspacing="0" width="100%">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+
+@{
+    for (int i = 0; i < ViewBag.count; i++)
+    {
+        <tr>
+
+            <td>@ViewBag.items[i].Item_Name</td>
+            <td>$@ViewBag.items[i].Item_Price</td>
+        </tr>
+
+        }
+    }
+    </tbody>
+</table>
